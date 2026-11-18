@@ -1,7 +1,10 @@
-<!-- Banner -->
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Afaq%20Sabghatullah&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Cybersecurity%20%7C%20Python%20Automation%20%7C%20AI%20%26%20Web%20Development&descSize=17&descAlignY=58" alt="Banner" />
-</p>
+<!-- Header -->
+<div align="center">
+  <img src="https://github.com/afaqsa.png?size=200" width="130" height="130" style="border-radius:50%;" alt="Afaq Sabghatullah" />
+  <h1>Afaq Sabghatullah</h1>
+  <p><b>Cybersecurity &nbsp;•&nbsp; Python Automation &nbsp;•&nbsp; AI &amp; Web Development</b></p>
+  <p>🎓 Junior Lecturer @ DHA Suffa University &nbsp;|&nbsp; 📍 Karachi, Pakistan</p>
+</div>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -162,5 +165,3 @@ I'm always happy to talk security, teaching, or building something interesting.
   <a href="https://www.linkedin.com/in/afaq786"><img src="https://img.shields.io/badge/Connect_on-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:afaqsabghatullah786@gmail.com"><img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" alt="Footer" />
