@@ -34,7 +34,7 @@ My main focus is **cybersecurity**. I work across both **Red Team** and **Blue T
 | | |
 |---|---|
 | 🎓 **Academics** | Completing my MS thesis (Thesis 2) in Computer Science |
-| 👨‍🏫 **Teaching** | Programming and networking labs, including Python for beginners, Packet Tracer / Cisco IOS, and AI-in-Psychology labs |
+| 👨‍🏫 **Teaching** | Programming and networking labs, including Python for beginners, Packet Tracer / Cisco IOS, and AI labs |
 | 🛡️ **Security Lab** | Home lab with Kali Linux, Docker, DVWA, OWASP Juice Shop, plus Wazuh, Zeek and Suricata for detection and monitoring |
 | 🕷️ **Automation** | A Python web scraper (Playwright + BeautifulSoup) with a CLI, configurable selectors, and JSON/CSV export |
 | 🤖 **AI + Web** | Flagship projects: AI Website Builder, AI SaaS Platform, AI Data Analyst |
